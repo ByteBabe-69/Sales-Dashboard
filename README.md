@@ -10,8 +10,30 @@ This repository contains a dynamic **Sales Analytics Dashboard** built using **P
 - 🛒 **Top Performing & Underperforming Products**
 - 📆 **Monthly Sales Trends**
 - 📈 Key KPIs: Total Revenue, Profit, Quantity Sold, and Profit Margin
-- 🔍 **Interactive Filters** by Region, Product Category, and Time Period
 - 🧠 **YOY (Year-over-Year)** comparison for strategic insights
+
+## 🔍Insights
+Payment Mode Insights:
+1. We observed that the highest volume of payments is made through Cash on Delivery (COD).
+2. Online Payments come in second, and the least amount of payments is made through Card Payments.
+3. If you have access to credit card details, you can analyze which company’s card is being used. This allows you to run targeted offers on those cards to gain an advantage.
+
+Regional and Segment Insights:
+1. In terms of regions, the majority of sales come from the West, contributing around 33% of total sales.
+2. Within that region, you can identify which specific state contributes the most—likely California.
+3. When you look at sales by customer segment, the Consumer segment accounts for the highest number of sales.
+
+Monthly Sales and Profit Patterns:
+1.The sales figures show that the highest sales occur in December, followed by November and then September.
+2.However, the profit peaks are a bit different: the highest profits are observed in October and December, with an additional profit spike in March.
+
+Category and Shipping Insights:
+1.From the detailed data, you can determine which product category performs the best and see which shipping mode (or shift mode) is most preferred by customers.
+
+Overall Performance (Last Two Years):
+- Over the past two years, the project recorded more than 22,000 orders.
+- Total sales amounted to 1.6 million, and the profit was 175,000.
+- On average, deliveries are completed within four days from the shipment date.
 
 ---
 
