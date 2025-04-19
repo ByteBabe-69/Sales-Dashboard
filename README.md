@@ -24,11 +24,11 @@ Regional and Segment Insights:
 3. When you look at sales by customer segment, the Consumer segment accounts for the highest number of sales.
 
 Monthly Sales and Profit Patterns:
-1.The sales figures show that the highest sales occur in December, followed by November and then September.
-2.However, the profit peaks are a bit different: the highest profits are observed in October and December, with an additional profit spike in March.
+1. The sales figures show that the highest sales occur in December, followed by November and then September.
+2. However, the profit peaks are a bit different: the highest profits are observed in October and December, with an additional profit spike in March.
 
 Category and Shipping Insights:
-1.From the detailed data, you can determine which product category performs the best and see which shipping mode (or shift mode) is most preferred by customers.
+1. From the detailed data, you can determine which product category performs the best and see which shipping mode (or shift mode) is most preferred by customers.
 
 Overall Performance (Last Two Years):
 - Over the past two years, the project recorded more than 22,000 orders.
